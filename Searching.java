@@ -20,6 +20,7 @@ public class Searching {
             
         // }
         // System.out.println();
+        
         System.out.print("Enter element to search in array: ");
         int se = sc.nextInt();
         int flag = 0;
